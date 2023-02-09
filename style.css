@@ -12,33 +12,42 @@
     float: left;
     border: 1px solid #e8e8e8;
     text-align: center;
+    box-sizing: border-box;
+    width: 275px;
 }
 .ourBus .buses .bus1{
     float: left;
     border: 1px solid #e8e8e8;
     text-align: center;
     border-top-left-radius: 25px;
+    box-sizing: border-box;
+    width: 275px;
 }
 .ourBus .buses .bus2{
     float: left;
     border: 1px solid #e8e8e8;
     text-align: center;
     border-top-right-radius: 25px;
+    width: 275px;
 }
 .ourBus .buses .bus3{
     float: left;
     border: 1px solid #e8e8e8;
     text-align: center;
     border-bottom-left-radius: 25px;
+    box-sizing: border-box;
+    width: 275px;
 }
 .ourBus .buses .bus4{
     float: left;
     border: 1px solid #e8e8e8;
     text-align: center;
     border-bottom-right-radius: 25px;
+    box-sizing: border-box;
+    width: 275px;
 }
 .ourBus img{
-    zoom: 72.3%;
+    width: 100%;
 }
 .img1{
     border-top-left-radius: 25px;
@@ -49,17 +58,14 @@
 .bus3{
     border-bottom-left-radius: 25px;
 }
-.ourBus .aBg{
-    background-color:darkgray;
-    padding: 3px;
-    margin: 3px 0 0;
-}
 .ourBus a{
-    width: 250px;
+    width: 100%;
     font-size: 16px;
     text-decoration: none;
     color: white;
     letter-spacing: 4px;
+    display: block;
+    background-color: darkgray;
 }
 .ourBus a:hover{
     background-color: orange;
