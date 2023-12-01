@@ -33,7 +33,7 @@ function chatWithGPT(callback, accessToken, text) {
     const messages = JSON.stringify({
         "messages": [{
             "role": "user", 
-            "content": "请用一句话介绍一下" + text
+            "content": "请用一句话介绍" + text
         }]
     })
 
