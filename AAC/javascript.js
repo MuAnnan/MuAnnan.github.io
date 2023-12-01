@@ -84,7 +84,7 @@ function speak({ text }) {
     setTimeout(function(){speak2({text: text})}, 2000)
     setTimeout(function(){speak2({text: text})}, 4000)
     setTimeout(function(){speak2({text: text})}, 6000)
-    setTimeout(getAccessToken(chatWithGPT, speak2 , text), 8000)
+    setTimeout(function(){getAccessToken(chatWithGPT, speak2 , text)}, 8000)
 }
 
 
