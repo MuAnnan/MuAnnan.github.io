@@ -79,10 +79,12 @@ function getAccessToken(callback, callback2 ,text) {
 
 
 function speak({ text }) {
+    console.log(text)
     speak2({text: text})
     setTimeout(function(){speak2({text: text})}, 2000)
     setTimeout(function(){speak2({text: text})}, 4000)
-    setTimeout(getAccessToken(chatWithGPT, speak , text), 6000)
+    setTimeout(function(){speak2({text: text})}, 6000)
+    setTimeout(getAccessToken(chatWithGPT, speak2 , text), 8000)
 }
 
 
