@@ -79,7 +79,6 @@ function getAccessToken(callback, callback2 ,text) {
 
 
 function speak({ text }) {
-    console.log(text)
     speak2({text: text})
     setTimeout(function(){speak2({text: text})}, 2000)
     setTimeout(function(){speak2({text: text})}, 4000)
