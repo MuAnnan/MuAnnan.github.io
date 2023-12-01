@@ -1,0 +1,114 @@
+.ourBus{
+    width: 1100px;
+    margin: 100px auto 0;
+}
+.title{
+    font-size: 40px;
+    text-align: center;
+    border-bottom: solid;
+    margin: 0 300px 10px;
+}
+.ourBus .buses .bus{
+    float: left;
+    border: 1px solid #e8e8e8;
+    text-align: center;
+    box-sizing: border-box;
+    width: 275px;
+    background-color: white;
+}
+.ourBus .buses .bus1{
+    float: left;
+    border: 1px solid #e8e8e8;
+    text-align: center;
+    border-top-left-radius: 25px;
+    box-sizing: border-box;
+    width: 275px;
+}
+.ourBus .buses .bus2{
+    float: left;
+    border: 1px solid #e8e8e8;
+    text-align: center;
+    border-top-right-radius: 25px;
+    width: 275px;
+}
+.ourBus .buses .bus3{
+    float: left;
+    border: 1px solid #e8e8e8;
+    text-align: center;
+    border-bottom-left-radius: 25px;
+    box-sizing: border-box;
+    width: 275px;
+}
+.ourBus .buses .bus4{
+    float: left;
+    border: 1px solid #e8e8e8;
+    text-align: center;
+    border-bottom-right-radius: 25px;
+    box-sizing: border-box;
+    width: 275px;
+}
+.ourBus img{
+    width: 100%;
+}
+.img1{
+    border-top-left-radius: 25px;
+}
+.img2{
+    border-top-right-radius: 25px;
+}
+.bus3{
+    border-bottom-left-radius: 25px;
+}
+.ourBus a{
+    width: 100%;
+    font-size: 16px;
+    text-decoration: none;
+    color: white;
+    letter-spacing: 4px;
+    display: block;
+    background-color: darkgray;
+}
+.ourBus a:hover{
+    background-color: orange;
+}
+.ourBus .bus3 .aBg{
+    border-bottom-left-radius: 25px;
+}
+.ourBus .bus4 .aBg{
+    border-bottom-right-radius: 25px;
+}
+.ourBus .buses:after{
+    clear: both;
+    content: "";
+    display: block;
+}
+
+.otherBusiness{
+    width: 1100px;
+    margin: 50px auto 0;
+}
+.otherBusiness .business1{
+    border: 1px solid #e8e8e8;
+    padding: 20px 30px;
+    background:#fff;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.otherBusiness .business{
+    border: 1px solid #e8e8e8;
+    padding: 20px 30px;
+    background:#fff;
+}
+.otherBusiness .business2{
+    border: 1px solid #e8e8e8;
+    padding: 20px 30px;
+    background:#fff;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.otherBusiness h1{
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0 0 10px;
+}
+
