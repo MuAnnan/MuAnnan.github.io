@@ -84,7 +84,8 @@ function speak({ text }) {
     setTimeout(function(){speak2({text: text})}, 2000)
     setTimeout(function(){speak2({text: text})}, 4000)
     setTimeout(function(){speak2({text: text})}, 6000)
-    setTimeout(function(){getAccessToken(chatWithGPT, speak2 , text)}, 8000)
+    if(text != "害怕" && text != "生气" && text != "无聊" && text != "开心" && text != "饿了" && text != "伤心" && text != "生病了" && text != "渴了" && text != "累了" )
+        setTimeout(function(){getAccessToken(chatWithGPT, speak2 , text)}, 8000)
 }
 
 
