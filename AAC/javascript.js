@@ -33,7 +33,7 @@ function chatWithGPT(callback, accessToken, text) {
     const messages = JSON.stringify({
         "messages": [{
             "role": "user", 
-            "content": "请简短的介绍一下" + text
+            "content": "请很简短的介绍一下" + text + ", 注意" + text + "可能是水果、蔬菜、动物或是身体部位"
         }]
     })
 
@@ -82,9 +82,8 @@ function speak({ text }) {
     speak2({text: text})
     setTimeout(function(){speak2({text: text})}, 2000)
     setTimeout(function(){speak2({text: text})}, 4000)
-    setTimeout(function(){speak2({text: text})}, 6000)
     if(text != "害怕" && text != "生气" && text != "无聊" && text != "开心" && text != "饿了" && text != "伤心" && text != "生病了" && text != "渴了" && text != "累了" )
-        setTimeout(function(){getAccessToken(chatWithGPT, speak2 , text)}, 8000)
+        setTimeout(function(){getAccessToken(chatWithGPT, speak2 , text)}, 6000)
 }
 
 
