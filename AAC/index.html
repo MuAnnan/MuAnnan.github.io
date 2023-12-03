@@ -1,92 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <link href="base.css" type="text/css" rel="stylesheet">
-    <link href="style.css" type="text/css" rel="stylesheet">
-    <title>AAC</title>
+<head> 
+  <meta charset="UTF-8">
+  <title>FreedomCoding</title>
+  <script src="index.js"></script>
+  <script src="speak.js"></script>
+  <script src="chatWithERNIE_Bot.js"></script>
+  <link href="FreedomCoding.css" rel="stylesheet" type="text/css">
 </head>
-
 <body>
-    <script src="javascript.js"></script>
-
-    <div class="main">
-        <div class="commonbg">
-        <div class="title">
-            常用卡片
-        </div>
-        <div class="common">
-            <div class="card" onclick="speak({ text: '渴了' })">
-                <p class="explain">渴了</p>
-                <div class="imgContainer">
-                    <img src="Pics for Pecs/EMOTIONS/Pyramid PECS Pictures 378.jpg"/>
-                </div>
-            </div>
-            <div class="card" onclick="speak({ text: '苹果' })">
-                <p class="explain">苹果</p>
-                <div class="imgContainer">
-                    <img src="Pics for Pecs/FRUITS & VEGETABLES/Pyramid PECS Pictures 633.jpg"/>
-                </div>
-            </div>
-            <div class="card" onclick="speak({ text: '饿了' })">
-                <p class="explain">饿了</p>
-                <div class="imgContainer">
-                    <img src="Pics for Pecs/EMOTIONS/Pyramid PECS Pictures 375.jpg"/>
-                </div>
-            </div>
-            <div class="card" onclick="speak({ text: '猫' })">
-            <p class="explain">猫</p>
-            <div class="imgContainer">
-                <img src="Pics for Pecs/ANIMALS/Pyramid PECS Pictures 070.jpg"/>
-            </div>
-            </div>
-            <div class="card" onclick="speak({ text: '狗' })">
-                <p class="explain">狗</p>
-                <div class="imgContainer">
-                    <img src="Pics for Pecs/ANIMALS/Pyramid PECS Pictures 082.jpg"/>
-                </div>
-            </div>
-        </div>
-        </div>
-
-        <div class="sortbg">
-            <div class="title">
-                卡片分类
-            </div>
-        <div class="sort">
-            <a href="emotions.html" class="card" onclick="speak({ text: '心情' })">
-                <p class="explain">心情</p>
-                <div class="imgContainer">
-                    <img src="Pics for Pecs/EMOTIONS/Pyramid PECS Pictures 374.jpg"/>
-                </div>
-            </a>
-            <a href="bodyparts.html" class="card" onclick="speak({ text: '身体部位' })">
-                <p class="explain">身体部位</p>
-                <div class="imgContainer">
-                    <img src="Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 293.jpg"/>
-                </div>
-            </a>
-            <a href="fruits.html" class="card" onclick="speak({ text: '水果' })">
-                <p class="explain">水果</p>
-                <div class="imgContainer">
-                    <img src="Pics for Pecs/FRUITS & VEGETABLES/Pyramid PECS Pictures 655.jpg"/>
-                </div>
-            </a>
-            <a href="vegetables.html" class="card" onclick="speak({ text: '蔬菜' })">
-                <p class="explain">蔬菜</p>
-                <div class="imgContainer">
-                    <img src="Pics for Pecs/FRUITS & VEGETABLES/Pyramid PECS Pictures 690.jpg"/>
-                </div>
-            </a>
-            <a href="animals.html" class="card" onclick="speak({ text: '动物' })">
-                <p class="explain">动物</p>
-                <div class="imgContainer">
-                    <img src="Pics for Pecs/ANIMALS/Pyramid PECS Pictures 054.jpg"/>
-                </div>
-            </a>
-        </div>
-        </div>
-    </div>
-
+  <div id="row1" class="row"></div>
+  <div id="row2" class="row" style="background-color: #E3ECEC;"></div>
 </body>
 </html>

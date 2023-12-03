@@ -1,0 +1,42 @@
+.row {
+    width: 100%;
+    background-color:beige;
+}
+.row::after {
+    clear: both;
+    content: "";
+    display: block;
+}
+
+
+.card {
+    width: 25%;
+    background-color: white;
+    border: 1px solid #e8e8e8;
+    margin: -1px;
+    float: left;
+}
+.title {
+    font-size: 100px;
+    text-align: center;
+    margin: 40px;
+}
+.explain {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'PingFangSC-Regular', sans-serif;
+    color: black;
+}
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+}
+.mask {
+    overflow: hidden;
+}
+img {
+    width: 100%;
+    margin: -65px 0 0 0;
+}

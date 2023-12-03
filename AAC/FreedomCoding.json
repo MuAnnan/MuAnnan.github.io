@@ -1,0 +1,78 @@
+{
+  "常用卡片": {
+    "渴了" : "Pics for Pecs/EMOTIONS/Pyramid PECS Pictures 378.jpg",
+    "苹果" : "Pics for Pecs/FRUITS & VEGETABLES/Pyramid PECS Pictures 634.jpg",
+    "饿了" : "Pics for Pecs/EMOTIONS/Pyramid PECS Pictures 375.jpg"
+  },
+  "卡片分类": {
+    "心情" : ["Pics for Pecs/EMOTIONS/Pyramid PECS Pictures 374.jpg", "emotions.html"],
+    "身体部位" : ["Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 293.jpg", "bodyparts.html"],
+    "水果" : ["Pics for Pecs/FRUITS & VEGETABLES/Pyramid PECS Pictures 655.jpg", "fruits.html"],
+    "蔬菜" : ["Pics for Pecs/FRUITS & VEGETABLES/Pyramid PECS Pictures 690.jpg", "vegetables.html"],
+    "动物" : ["Pics for Pecs/ANIMALS/Pyramid PECS Pictures 054.jpg", "animals.html"]
+  },
+  "心情": {
+    "害怕" : "Pics for Pecs/EMOTIONS/Pyramid PECS Pictures 371.jpg",
+    "生气" : "Pics for Pecs/EMOTIONS/Pyramid PECS Pictures 372.jpg",
+    "无聊" : "Pics for Pecs/EMOTIONS/Pyramid PECS Pictures 373.jpg",
+    "开心" : "Pics for Pecs/EMOTIONS/Pyramid PECS Pictures 374.jpg",
+    "饿了" : "Pics for Pecs/EMOTIONS/Pyramid PECS Pictures 375.jpg",
+    "伤心" : "Pics for Pecs/EMOTIONS/Pyramid PECS Pictures 376.jpg",
+    "生病了" : "Pics for Pecs/EMOTIONS/Pyramid PECS Pictures 377.jpg",
+    "渴了" : "Pics for Pecs/EMOTIONS/Pyramid PECS Pictures 378.jpg",
+    "累了" : "Pics for Pecs/EMOTIONS/Pyramid PECS Pictures 379.jpg"
+  },
+  "水果": {
+    "苹果": "Pics for Pecs/FRUITS & VEGETABLES/Pyramid PECS Pictures 634.jpg",
+    "香蕉": "Pics for Pecs/FRUITS & VEGETABLES/Pyramid PECS Pictures 638.jpg",
+    "车厘子": "Pics for Pecs/FRUITS & VEGETABLES/Pyramid PECS Pictures 647.jpg",
+    "菠萝": "Pics for Pecs/FRUITS & VEGETABLES/Pyramid PECS Pictures 677.jpg",
+    "草莓": "Pics for Pecs/FRUITS & VEGETABLES/Pyramid PECS Pictures 687.jpg",
+    "西瓜": "Pics for Pecs/FRUITS & VEGETABLES/Pyramid PECS Pictures 691.jpg"
+  },
+  "蔬菜": {
+    "西兰花": "Pics for Pecs/FRUITS & VEGETABLES/Pyramid PECS Pictures 641.jpg",
+    "胡萝卜": "Pics for Pecs/FRUITS & VEGETABLES/Pyramid PECS Pictures 643.jpg",
+    "黄瓜": "Pics for Pecs/FRUITS & VEGETABLES/Pyramid PECS Pictures 652.jpg",
+    "豆角": "Pics for Pecs/FRUITS & VEGETABLES/Pyramid PECS Pictures 658.jpg",
+    "生菜": "Pics for Pecs/FRUITS & VEGETABLES/Pyramid PECS Pictures 662.jpg",
+    "洋葱": "Pics for Pecs/FRUITS & VEGETABLES/Pyramid PECS Pictures 669.jpg",
+    "辣椒": "Pics for Pecs/FRUITS & VEGETABLES/Pyramid PECS Pictures 676.jpg",
+    "南瓜": "Pics for Pecs/FRUITS & VEGETABLES/Pyramid PECS Pictures 686.jpg",
+    "西红柿": "Pics for Pecs/FRUITS & VEGETABLES/Pyramid PECS Pictures 689.jpg"
+  },
+  "动物": {
+    "猫": "Pics for Pecs/ANIMALS/Pyramid PECS Pictures 070.jpg",
+    "狗": "Pics for Pecs/ANIMALS/Pyramid PECS Pictures 082.jpg",
+    "小鸡": "Pics for Pecs/ANIMALS/Pyramid PECS Pictures 072.jpg",
+    "兔子": "Pics for Pecs/ANIMALS/Pyramid PECS Pictures 148.jpg",
+    "奶牛": "Pics for Pecs/ANIMALS/Pyramid PECS Pictures 076.jpg",
+    "蜜蜂": "Pics for Pecs/ANIMALS/Pyramid PECS Pictures 060.jpg",
+    "鸭子": "Pics for Pecs/ANIMALS/Pyramid PECS Pictures 088.jpg",
+    "大象": "Pics for Pecs/ANIMALS/Pyramid PECS Pictures 091.jpg",
+    "青蛙": "Pics for Pecs/ANIMALS/Pyramid PECS Pictures 098.jpg"
+  },
+  "身体部位": {
+    "脚踝": "Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 281.jpg",
+    "胳膊": "Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 282.jpg",
+    "胡子": "Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 283.jpg",
+    "下巴": "Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 284.jpg",
+    "耳朵": "Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 285.jpg",
+    "胳膊肘": "Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 287.jpg",
+    "眉毛": "Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 288.jpg",
+    "眼睛": "Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 289.jpg",
+    "手指": "Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 290.jpg",
+    "脚": "Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 291.jpg",
+    "头发": "Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 292.jpg",
+    "手": "Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 293.jpg",
+    "膝盖": "Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 294.jpg",
+    "腿": "Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 295.jpg",
+    "嘴": "Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 297.jpg",
+    "鼻子": "Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 299.jpg",
+    "牙齿": "Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 300.jpg",
+    "大拇指": "Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 301.jpg",
+    "脚趾": "Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 302.jpg",
+    "舌头": "Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 303.jpg",
+    "肚子": "Pics for Pecs/BODY PARTS/Pyramid PECS Pictures 304.jpg"
+  }
+}
