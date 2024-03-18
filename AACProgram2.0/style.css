@@ -1,0 +1,40 @@
+.main{
+    display: flex;
+
+    width: 100%;
+}
+
+.main .column{
+    width: 20%;
+}
+
+.main .column img{
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    border-style: solid;
+    border-top-width: 4px;
+    border-bottom-width: 4px;
+    border-left-width: 8px;
+    border-right-width: 8px;
+}
+
+#emotion img{
+    border-color: skyblue;
+}
+
+#fruits img{
+    border-color: red;
+}
+
+#vegetables img{
+    border-color: greenyellow;
+}
+
+#animals img{
+    border-color: gainsboro;
+}
+
+#bodyparts img{
+    border-color: plum;
+}
